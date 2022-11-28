@@ -8,11 +8,17 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/WtVOjr6.gif" alt=""><figcaption><p>Chill time</p></figcaption></figure>
 
-#### NÓI KHÔNG HẶC CƠ LỎ FB ,DAME ACC ,BUFF LIKE....![](<../.gitbook/assets/chỉ mục (1).jpg>)
+#### NÓI KHÔNG HẶC CƠ LỎ FB ,DAME ACC ,BUFF LIKE....
 
-#### NÓI KHÔNG VỚI TIK TOK VÀ TREND TRÊN MẠNG![](../.gitbook/assets/maxresdefault.jpg)
+<figure><img src="../.gitbook/assets/e8d0a85f8c6467ef68ecb6ee98988c3ahacker-noi-go-rup-nhat-bay-go-rup.jpg" alt=""><figcaption><p>Hặc cơ lỏ</p></figcaption></figure>
 
-### Nói không với 3 que xỏ lá =]]![](<../.gitbook/assets/313288862\_175872691774069\_5948737380267838896\_n (1).jpg>)
+#### NÓI KHÔNG VỚI TIK TOK VÀ TREND TRÊN MẠNG
+
+<figure><img src="../.gitbook/assets/maxresdefault.jpg" alt=""><figcaption><p>trend tik tok đb</p></figcaption></figure>
+
+### Nói không với 3 que xỏ lá =]]
+
+<figure><img src="../.gitbook/assets/313288862_175872691774069_5948737380267838896_n (1).jpg" alt=""><figcaption><p>ĐỘC LẬP TỰ DO LÀ CÓ THẬT</p></figcaption></figure>
 
 
 
