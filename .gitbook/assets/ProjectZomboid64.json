@@ -1,0 +1,46 @@
+{
+	"mainClass": "zombie/gameStates/MainScreenState",
+	"classpath": [
+		".",
+		"commons-compress-1.18.jar",
+		"istack-commons-runtime.jar",
+		"jassimp.jar",
+		"javacord-2.0.17-shaded.jar",
+		"javax.activation-api.jar",
+		"jaxb-api.jar",
+		"jaxb-runtime.jar",
+		"lwjgl.jar",
+		"lwjgl-natives-windows.jar",
+		"lwjgl-glfw.jar",
+		"lwjgl-glfw-natives-windows.jar",
+		"lwjgl-jemalloc.jar",
+		"lwjgl-jemalloc-natives-windows.jar",
+		"lwjgl-opengl.jar",
+		"lwjgl-opengl-natives-windows.jar",
+		"lwjgl_util.jar",
+		"sqlite-jdbc-3.27.2.1.jar",
+		"trove-3.0.3.jar",
+		"uncommons-maths-1.2.3.jar"
+	],
+	"vmArgs": [
+		"-Djava.awt.headless=true",
+		"-Xmx3072m",
+		"-Dzomboid.steam=1",
+		"-Dzomboid.znetlog=1",
+		"-Djava.library.path=win64/;.",
+		"-XX:-CreateCoredumpOnCrash",
+		"-XX:-OmitStackTraceInFastThrow"
+	],
+	"windows": {
+		"6.1": {
+			"vmArgs": [
+				"-XX:+UseG1GC"
+			]
+		},
+		"10.0.17134": {
+			"vmArgs": [
+				"-XX:+UseZGC"
+			]
+		}
+	}
+}
