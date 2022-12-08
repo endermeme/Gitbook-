@@ -1,7 +1,7 @@
 ---
 description: >-
-  IMS ( Internal Multi Service) : là nhóm gồm 30 vị hảo hán và là nhóm để học
-  hỏi , giao lưu về hacking , code .
+  IMS ( Internal Multi Service) : là nhóm gồm 246 vị hảo hán và là nhóm để học
+  hỏi , giao lưu về pentesting , code .
 cover: ../.gitbook/assets/hacker.gif
 coverY: 0
 ---
