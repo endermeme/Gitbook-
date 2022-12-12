@@ -26,6 +26,12 @@ coverY: 0
 
 Đam mê công nghệ từ năm 12 tuổi , học hack chỉ là một phần trong kĩ năng mà tôi phải học , tôi còn muốn mình có thể code được 1 trang web hoàn hảo mà không cần trợ giúp của phần mềm thứ 3 , hay là tháo lắp các linh kiện điện tử 1 cách thành thạo hơn....
 
+#### IDOL TÔI :>>
+
+{% embed url="https://www.facebook.com/r0bb3r71978" %}
+
+{% embed url="https://www.facebook.com/7onez.hieupc" %}
+
 #### CODE TỰ VIẾT&#x20;
 
 
