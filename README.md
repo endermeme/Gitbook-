@@ -10,8 +10,6 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/ims.gif" alt=""><figcaption><p>Tôn trọng - An toàn - Hòa bình</p></figcaption></figure>
 
-Nhóm IMS ban đầu có tên là nhóm 908 được lập ra bởi ba thành viên là EnderBeta , Alpha9 , Oneshost (tên viết thế chứ k p sai chính tả) và chủ yếu là để chơi game trên điện thoại với nhau . Tháng 11 năm 2021 - 908 được đổi lại thành IMS và lấy trọng tâm là phát triển code và pentesting , kết nạp thành viên từ các mạng xã hội như Facebook , Twitter , các forum hacker khác .....
-
 Chúng tôi đề cao tính cộng đồng và sự vui vẻ ,các thành viên nhóm sẽ có các port riêng để share meme hoặc nói chuyện , chơi game vui vẻ với nhau .
 
 Nhóm hiện đang hoạt động ở các server Tor chat bởi sự an toàn và bảo mật , thực ra 30 người chỉ là 30 người Việt ,còn nhóm hiện đang có 246 thành viên từ các nước như Indo ,Mỹ ,Nga ,Đức ,...
@@ -44,7 +42,15 @@ Mục tiêu của chúng tôi là :&#x20;
 
 Chúng tôi biết tuy còn nhiều thứ chưa thể thực hiện được , nhưng chúng tôi sẽ luôn cố gắng nâng cao kĩ năng của bản thân để có thể giúp mọi người .
 
+Chúng tôi yêu cầu kĩ năng như :&#x20;
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td>Lập trình cơ bản Python C# C++ Java Ruby</td><td><a href=".gitbook/assets/code-syntax-dark-minimal-4k-mr.jpg">code-syntax-dark-minimal-4k-mr.jpg</a></td></tr><tr><td></td><td></td><td>Biết dùng các tool phổ biến như Metasploit Nmap LOIC Sqlinjection</td><td><a href=".gitbook/assets/kali-linux-kali-linux-nethunter-linux-unix-lenovo-hd-wallpaper-preview.jpg">kali-linux-kali-linux-nethunter-linux-unix-lenovo-hd-wallpaper-preview.jpg</a></td></tr><tr><td></td><td></td><td>Mã hoá thông tin , giải mã thông tin </td><td><a href=".gitbook/assets/HD-wallpaper-computer-security-cybersecurity-technology-background-with-lock-blue-neon-lock-digital-background.jpg">HD-wallpaper-computer-security-cybersecurity-technology-background-with-lock-blue-neon-lock-digital-background.jpg</a></td></tr></tbody></table>
+
+Nếu muốn tham gia cùng chúng tôi , hãy liên hệ EM HK để được kiểm tra kĩ năng , nếu bạn vượt qua thì bạn đã được kết nạp vào nhóm .
+
+{% embed url="https://www.facebook.com/vb.anonyme" %}
+Facebook
+{% endembed %}
 
 
 
