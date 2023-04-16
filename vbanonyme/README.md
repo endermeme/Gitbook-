@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/icegif-165.gif
 coverY: 0
 ---
 
-# 👾 AnonyMe
+# 👾 VBAnonyMe
 
 <figure><img src="../.gitbook/assets/WtVOjr6.gif" alt=""><figcaption><p>Chill time</p></figcaption></figure>
 
@@ -29,8 +29,12 @@ coverY: 0
 #### IDOL TÔI :>>
 
 {% embed url="https://www.facebook.com/r0bb3r71978" %}
+Chó Ngô Vĩnh Huy
+{% endembed %}
 
 {% embed url="https://www.facebook.com/7onez.hieupc" %}
+Hiếu Pc
+{% endembed %}
 
 #### CODE TỰ VIẾT&#x20;
 
