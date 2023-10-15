@@ -390,7 +390,7 @@ Thích tự học code , học hack , học vọc vạch PC
 
 Thích chơi những game cũ như Cod2-Mw-Mw2 , FarCry2-3-4 , Doom , Gta vice-san-IV&#x20;
 
-{% embed url="https://open.spotify.com/playlist/2Hm4SrBKrVr9jDi1zBc47q?si=567c4bf9bd944879" %}
-Nhạc hay nghe ( Nghe được ) (spotify)
+{% embed url="https://open.spotify.com/playlist/5lOd32OCd0EWcmewJVKMi3?si=1c44ebd3a6ea4849" %}
+Ngọt Band number 1
 {% endembed %}
 
